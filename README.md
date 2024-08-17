@@ -1,5 +1,6 @@
 Guide to download and run in your machine:
 
+Python version 3.12.3
 
 Setup of the Backend:
 
@@ -39,7 +40,7 @@ Setup of the Backend:
             }
         }
 
-// The source here is configured is to deploy that's why need to change the setting above
+// The source code configured here is for deployment that's why need to change the setting above
 // Now just run these codes
 
 5º - python manage.py makemigrations
